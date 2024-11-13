@@ -122,10 +122,10 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "Bajaj Institute of Technology, Wardha",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      subHeader: "B.Tech in Electrical Engineering",
+      duration: "August 2019 - April 2023",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -191,7 +191,7 @@ const workExperiences = {
       role: "Dev Relations Intern",
       company: "Blockchained India ",
       companylogo: require("./assets/images/blockchainedIndia.png"),
-      date: "Jul 2022 – Jan 2023",
+      date: "July 2022 – Jan 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
